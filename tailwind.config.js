@@ -19,7 +19,35 @@ module.exports = {
           900: "#1e3a8a",
         },
       },
+      spacing:{
+        "119":"19px",
+        "115":"15px",
+        "100":"100vh",
+        "113":"113px",
+        "451":"451px"
+      },
+      backgroundImage: {
+        'bg' : "url('/party.png')",
+        "bgsm":"url('/partysm.png')"
+      },
+      
+      backgroundSize: {
+        '100': '1px',
+        '16': '4rem',
+      }
+
     },
+    screens: {
+      'sm': '576px',
+      // => @media (min-width: 576px) { ... }
+
+      'md': '960px',
+      // => @media (min-width: 960px) { ... }
+
+      'lg': '1440px',
+      // => @media (min-width: 1440px) { ... }
+    },
+   
     fontFamily: {
       body: ["Inter", "ui-sans-serif", "Roboto"],
     },
