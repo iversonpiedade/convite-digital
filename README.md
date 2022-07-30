@@ -1,2 +1,2 @@
-# tapago_ui
-Frontend do projeto Tá Pago? - Verificador de transferências e depósitos construído no Next.js
+# convite-digita
+Convite digital com sistema de marcação de presença.
