@@ -50,8 +50,8 @@ const Home: NextPage = () => {
   };
 
   const location = {
-    lat: "-8.9728236",
-    long: "13.1502776",
+    lat: "-8.963322",
+    long: "13.202073",
   };
 
   const mapMapUrl = `https://www.google.com/maps/search/?api=1&query=${location.lat}%2C${location.long}`;
